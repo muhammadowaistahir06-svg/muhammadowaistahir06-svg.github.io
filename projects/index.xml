@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Muhammad Owais Tahir | Engineering Archive</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Muhammad Owais Tahir | Engineering Archive</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autonomous Kinematics &amp; Embedded Control</title>
+      <link>http://localhost:1313/projects/autonomous-kinematics/</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/autonomous-kinematics/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The Constraint&lt;/strong&gt;
+Standard robotic chassis rely on abstracted libraries and pre-packaged controllers. The objective was to build raw, deterministic finite state machines for autonomous navigation, avoiding high-level overhead.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hardware Architecture&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed physical maze-solving and line-follower chassis driven by bare-metal C/C++.&lt;/li&gt;
+&lt;li&gt;Integrated TB6612FNG motor drivers with 5-channel IR sensor arrays directly into the ESP32 GPIO layer.&lt;/li&gt;
+&lt;li&gt;Modeled custom 2DOF pan-tilt camera mechanisms and mechanical enclosures using Tinkercad and FreeCAD.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Control Logic &amp;amp; Simulation&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

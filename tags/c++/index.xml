@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C&#43;&#43; on Muhammad Owais Tahir | Engineering Archive</title>
+    <link>https://muhammadowaistahir06-svg.github.io/tags/c&#43;&#43;/</link>
+    <description>Recent content in C&#43;&#43; on Muhammad Owais Tahir | Engineering Archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <atom:link href="https://muhammadowaistahir06-svg.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3x3x3 LED Cube</title>
+      <link>https://muhammadowaistahir06-svg.github.io/robotics/3x3x3-cube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/robotics/3x3x3-cube/</guid>
+      <description>This is where it all started — 27 LEDs, floating in space, somehow behaving like one tiny 3D display.</description>
+      
+    </item>
+    
+    <item>
+      <title>4x4x4 LED Cube</title>
+      <link>https://muhammadowaistahir06-svg.github.io/robotics/4x4x4-cube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/robotics/4x4x4-cube/</guid>
+      <description>64 LEDs. The same core concept as the first build, but the logic and wiring density are completely unforgiving. Fully stable and running complete 3D patterns.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

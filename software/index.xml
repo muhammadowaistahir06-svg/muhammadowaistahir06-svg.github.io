@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Muhammad Owais Tahir | Engineering Archive</title>
+    <link>https://muhammadowaistahir06-svg.github.io/software/</link>
+    <description>Recent content in Software on Muhammad Owais Tahir | Engineering Archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <atom:link href="https://muhammadowaistahir06-svg.github.io/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Algorithmic Optimization of the Closest Pair Problem</title>
+      <link>https://muhammadowaistahir06-svg.github.io/software/daa-manhattan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/software/daa-manhattan/</guid>
+      <description>&lt;style&gt;&#xA;.article-content, .max-w-prose { max-width: 900px !important; }&#xA;.project-meta { font-family: monospace; color: #4ade80; margin-top: -10px; margin-bottom: 30px; border-bottom: 1px dashed #334155; padding-bottom: 20px; font-size: 0.9em; letter-spacing: 0.5px; }&#xA;.project-body { color: #cbd5e1; line-height: 1.8; font-size: 1.05em; }&#xA;.project-image { width: 100%; border-radius: 8px; border: 1px solid #334155; margin: 30px 0; display: block; background: #0f172a; }&#xA;.project-body ul { margin-top: 15px; margin-bottom: 30px; padding-left: 20px; }&#xA;.project-body li { margin-bottom: 20px; }&#xA;.project-body strong { color: #f8fafc; }&#xA;.project-body h3 { color: #4ade80; text-transform: uppercase; font-family: monospace; font-size: 1.2em; margin-top: 40px; border-bottom: 1px solid #334155; padding-bottom: 10px; }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;project-meta&#34;&gt;DESIGN AND ANALYSIS OF ALGORITHMS | C++ &amp; PYTHON&lt;/div&gt;&#xA;&lt;div class=&#34;project-body&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;How quickly can we find the closest two points when “distance” doesn&#39;t mean what you normally think it means? :}&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Digital Logic LED Matrix Simulation</title>
+      <link>https://muhammadowaistahir06-svg.github.io/software/dld-matrix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/software/dld-matrix/</guid>
+      <description>&lt;style&gt;&#xA;.article-content, .max-w-prose { max-width: 900px !important; }&#xA;.project-meta { font-family: monospace; color: #4ade80; margin-top: -10px; margin-bottom: 30px; border-bottom: 1px dashed #334155; padding-bottom: 20px; font-size: 0.9em; letter-spacing: 0.5px; }&#xA;.project-body { color: #cbd5e1; line-height: 1.8; font-size: 1.05em; }&#xA;.img-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 40px 0; }&#xA;.img-full { grid-column: span 2; width: 100%; border-radius: 8px; border: 1px solid #334155; background: #e2e8f0; }&#xA;.img-half { width: 100%; border-radius: 8px; border: 1px solid #334155; background: #e2e8f0; object-fit: contain; max-height: 400px; }&#xA;.project-body ul { margin-top: 15px; margin-bottom: 30px; padding-left: 20px; }&#xA;.project-body li { margin-bottom: 20px; }&#xA;.project-body strong { color: #f8fafc; }&#xA;.project-body h3 { color: #4ade80; text-transform: uppercase; font-family: monospace; font-size: 1.2em; margin-top: 40px; border-bottom: 1px solid #334155; padding-bottom: 10px; }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;project-meta&#34;&gt;DIGITAL LOGIC DESIGN | UNIVERSITY PROJECT&lt;/div&gt;&#xA;&lt;div class=&#34;project-body&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;No microcontroller. No Arduino. No firmware. Just logic gates trying to make 64 LEDs behave. :}&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Enterprise-Grade Energy Management &amp; Auditing System</title>
+      <link>https://muhammadowaistahir06-svg.github.io/software/dbms-energy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/software/dbms-energy/</guid>
+      <description>&lt;style&gt;&#xA;.article-content, .max-w-prose { max-width: 900px !important; }&#xA;.project-meta { font-family: monospace; color: #4ade80; margin-top: -10px; margin-bottom: 30px; border-bottom: 1px dashed #334155; padding-bottom: 20px; font-size: 0.9em; letter-spacing: 0.5px; }&#xA;.project-body { color: #cbd5e1; line-height: 1.8; font-size: 1.05em; }&#xA;.img-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 40px 0; }&#xA;.img-full { grid-column: span 2; width: 100%; border-radius: 8px; border: 1px solid #334155; background: #0f172a; margin: 30px 0; }&#xA;.img-half { width: 100%; border-radius: 8px; border: 1px solid #334155; background: #0f172a; }&#xA;.project-body ul { margin-top: 15px; margin-bottom: 30px; padding-left: 20px; }&#xA;.project-body li { margin-bottom: 20px; }&#xA;.project-body strong { color: #f8fafc; }&#xA;.project-body h3 { color: #4ade80; text-transform: uppercase; font-family: monospace; font-size: 1.2em; margin-top: 40px; border-bottom: 1px solid #334155; padding-bottom: 10px; }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;project-meta&#34;&gt;DATABASE MANAGEMENT SYSTEMS | C# / .NET &amp; SQL SERVER&lt;/div&gt;&#xA;&lt;div class=&#34;project-body&#34;&gt;&#xA;&lt;h3&gt;This was one of those university projects that started as “just make a billing system” and somehow turned into an entire energy-management platform :}&lt;/h3&gt;&#xA;&lt;p&gt;The goal was to build a desktop application capable of tracking electricity consumption, estimating billing costs, generating detailed reports, and identifying unusually high appliance consumption.&#xA;But the interesting part wasn&#39;t the bill calculator ..&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>High-Performance Drone Swarm Simulation</title>
+      <link>https://muhammadowaistahir06-svg.github.io/software/drone-swarm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/software/drone-swarm/</guid>
+      <description>&lt;style&gt;&#xA;.article-content, .max-w-prose { max-width: 900px !important; }&#xA;.project-meta { font-family: monospace; color: #4ade80; margin-top: -10px; margin-bottom: 30px; border-bottom: 1px dashed #334155; padding-bottom: 20px; font-size: 0.9em; letter-spacing: 0.5px; }&#xA;.project-body { color: #cbd5e1; line-height: 1.8; font-size: 1.05em; }&#xA;.img-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 40px 0; }&#xA;.img-full { grid-column: span 2; width: 100%; border-radius: 8px; border: 1px solid #334155; background: #0f172a; }&#xA;.img-half { width: 100%; border-radius: 8px; border: 1px solid #334155; background: #0f172a; }&#xA;.project-body ul { margin-top: 15px; margin-bottom: 30px; padding-left: 20px; }&#xA;.project-body li { margin-bottom: 20px; }&#xA;.project-body strong { color: #f8fafc; }&#xA;.project-body h3 { color: #4ade80; text-transform: uppercase; font-family: monospace; font-size: 1.2em; margin-top: 40px; border-bottom: 1px solid #334155; padding-bottom: 10px; }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;project-meta&#34;&gt;DECOUPLED ARCHITECTURE | MPI + CUDA&lt;/div&gt;&#xA;&lt;div class=&#34;project-body&#34;&gt;&#xA;&lt;h2&gt;At some point, simulating one drone wasn&#39;t enough. So I tried simulating thousands. :}&lt;/h2&gt;&#xA;&lt;p&gt;&#xA;This project started with a simple question: &lt;h4&gt;how do you make a computer keep up when hundreds or thousands of objects all need to move, calculate, and react at the same time?&lt;/h4&gt;A traditional sequential CPU quickly becomes the bottleneck when every drone needs continuous position updates, 3D kinematics, and collision checks. So instead of simply optimizing the code, I changed the way the computation itself was organized.&#xA;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Network Stealth &amp; Hooking</title>
+      <link>https://muhammadowaistahir06-svg.github.io/software/network-stealth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/software/network-stealth/</guid>
+      <description>&lt;style&gt;&#xA;.article-content, .max-w-prose { max-width: 900px !important; }&#xA;.project-meta { font-family: monospace; color: #4ade80; margin-top: -10px; margin-bottom: 30px; border-bottom: 1px solid #334155; padding-bottom: 20px; font-size: 0.9em; letter-spacing: 0.5px; }&#xA;.project-body { color: #cbd5e1; line-height: 1.8; font-size: 1.05em; }&#xA;.project-image { width: 100%; max-width: 350px; border-radius: 8px; border: 1px solid #334155; margin: 40px 0; display: block; background: #0f172a; }&#xA;.project-body ul { margin-top: 15px; margin-bottom: 30px; padding-left: 20px; }&#xA;.project-body li { margin-bottom: 15px; }&#xA;.project-body strong { color: #f8fafc; }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;project-meta&#34;&gt;OPERATING SYSTEMS | UNIVERSITY GROUP PROJECT (3 MEMBERS)&lt;/div&gt;&#xA;&lt;div class=&#34;project-body&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;This was one of those projects where we stopped treating the operating system like a black box and started asking: “What happens if we look underneath?” :}&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>NLP Topic Modeling &amp; Document Classification Pipeline</title>
+      <link>https://muhammadowaistahir06-svg.github.io/software/nlp-pipeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/software/nlp-pipeline/</guid>
+      <description>&lt;style&gt;&#xA;.article-content, .max-w-prose { max-width: 900px !important; }&#xA;.project-meta { font-family: monospace; color: #4ade80; margin-top: -10px; margin-bottom: 30px; border-bottom: 1px dashed #334155; padding-bottom: 20px; font-size: 0.9em; letter-spacing: 0.5px; }&#xA;.project-body { color: #cbd5e1; line-height: 1.8; font-size: 1.05em; }&#xA;.project-body ul { margin-top: 15px; margin-bottom: 30px; padding-left: 20px; }&#xA;.project-body li { margin-bottom: 20px; }&#xA;.project-body strong { color: #f8fafc; }&#xA;.project-body h3 { color: #4ade80; text-transform: uppercase; font-family: monospace; font-size: 1.2em; margin-top: 40px; border-bottom: 1px solid #334155; padding-bottom: 10px; }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;project-meta&#34;&gt;DATA SCIENCE | NATURAL LANGUAGE PROCESSING&lt;/div&gt;&#xA;&lt;h3&gt;What if you gave a computer thousands of documents and simply asked: “Figure out what everyone is talking about.”? :}&lt;/h3&gt;&#xA;&lt;div class=&#34;project-body&#34;&gt;&#xA;&lt;p&gt;That was essentially the idea behind this project.&#xA;&lt;p&gt;Using the &lt;strong&gt;20 Newsgroups dataset&lt;/strong&gt;, I built an NLP pipeline capable of discovering hidden topics in text, grouping documents by semantic similarity, and then predicting their original categories.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

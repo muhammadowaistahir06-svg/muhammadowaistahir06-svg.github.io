@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Power Routing on Muhammad Owais Tahir | Engineering Archive</title>
+    <link>https://muhammadowaistahir06-svg.github.io/tags/power-routing/</link>
+    <description>Recent content in Power Routing on Muhammad Owais Tahir | Engineering Archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <atom:link href="https://muhammadowaistahir06-svg.github.io/tags/power-routing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>9x9x9 LED Cube</title>
+      <link>https://muhammadowaistahir06-svg.github.io/robotics/9x9x9-cube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/robotics/9x9x9-cube/</guid>
+      <description>729 LEDs. At this point, I wasn&amp;rsquo;t really making an LED cube anymore. I was building a problem. :}</description>
+      
+    </item>
+    
+  </channel>
+</rss>

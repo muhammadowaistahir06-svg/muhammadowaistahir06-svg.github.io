@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Systems on Muhammad Owais Tahir | Engineering Archive</title>
+    <link>http://localhost:1313/systems/</link>
+    <description>Recent content in Systems on Muhammad Owais Tahir | Engineering Archive</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Certifications &amp; Systems Architecture</title>
+      <link>http://localhost:1313/systems/certifications/</link>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/systems/certifications/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Hardware &amp;amp; Control Systems&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sensors and Sensor Circuit Design (UC Boulder):&lt;/strong&gt; Applied directly to custom PCB routing, STM32 interrupt architecture, and industrial sensor logic.
+&lt;img alt=&#34;UC Boulder Certificate&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/circuitdesigncertificate-1.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Modern Robotics (Northwestern University):&lt;/strong&gt; Advanced mechanics, planning, and control logic utilized in parallel drone swarm simulation and autonomous chassis development.
+&lt;img alt=&#34;Northwestern University Certificate&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/northwest(6courses).png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Network &amp;amp; Operating Systems&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Operating Systems (BITS Pilani):&lt;/strong&gt; Core principles applied to Linux system administration, direct SSH remote access pipelines, and distributed C++ infrastructure.
+&lt;img alt=&#34;BITS Pilani Certificate&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/OS-1.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tor Stealth Tunnel: Anonymous Data Interception</title>
+      <link>http://localhost:1313/systems/tor-stealth-tunnel/</link>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/systems/tor-stealth-tunnel/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Project Overview&lt;/strong&gt;
+The Tor Stealth Tunnel is a secure, store-and-forward reverse proxy infrastructure designed to receive public web traffic while completely obfuscating the physical location and IP address of the destination server. This proof-of-concept demonstrates advanced network privacy techniques by decoupling the public-facing entry point from the secure client machine.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Architectural Design&lt;/strong&gt;
+The infrastructure is segmented into a three-tier architecture to ensure maximum operational security and mitigate direct denial-of-service (DDoS) vectors:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Industrial Software &amp; Custom Hardware Architecture</title>
+      <link>http://localhost:1313/systems/beecortex-infrastructure/</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/systems/beecortex-infrastructure/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Beecortex Engineering Execution&lt;/strong&gt;
+Bridging the gap between physical circuit layouts and cross-platform industrial software.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Reverse Engineering &amp;amp; Sensing:&lt;/strong&gt; Designed custom PCB schematics and routed hardware for precision timing systems. Wrote the STM32 Black Pill firmware to handle hardware interrupts for ultrasonic echo detection.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Complex Multiplexing:&lt;/strong&gt; Engineered the custom circuit wiring, NPN transistor layer switching, and low-level ATmega328P C++ multiplexing logic for 3x3x3 and 4x4x4 LED matrix structures.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industrial Software Environments:&lt;/strong&gt; Developed 2D and 3D Gaussian Process Regression models in FastAPI and Streamlit to drive real-time false-color tank thickness visualization dashboards for industrial corrosion mapping.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

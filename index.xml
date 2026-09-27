@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muhammad Owais Tahir | Engineering Archive</title>
+    <link>https://muhammadowaistahir06-svg.github.io/</link>
+    <description>Recent content on Muhammad Owais Tahir | Engineering Archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <atom:link href="https://muhammadowaistahir06-svg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3x3x3 LED Cube</title>
+      <link>https://muhammadowaistahir06-svg.github.io/robotics/3x3x3-cube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/robotics/3x3x3-cube/</guid>
+      <description>This is where it all started — 27 LEDs, floating in space, somehow behaving like one tiny 3D display.</description>
+      
+    </item>
+    
+    <item>
+      <title>4x4x4 LED Cube</title>
+      <link>https://muhammadowaistahir06-svg.github.io/robotics/4x4x4-cube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/robotics/4x4x4-cube/</guid>
+      <description>64 LEDs. The same core concept as the first build, but the logic and wiring density are completely unforgiving. Fully stable and running complete 3D patterns.</description>
+      
+    </item>
+    
+    <item>
+      <title>9x9x9 LED Cube</title>
+      <link>https://muhammadowaistahir06-svg.github.io/robotics/9x9x9-cube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/robotics/9x9x9-cube/</guid>
+      <description>729 LEDs. At this point, I wasn&amp;rsquo;t really making an LED cube anymore. I was building a problem. :}</description>
+      
+    </item>
+    
+    <item>
+      <title>Algorithmic Optimization of the Closest Pair Problem</title>
+      <link>https://muhammadowaistahir06-svg.github.io/software/daa-manhattan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/software/daa-manhattan/</guid>
+      <description>&lt;style&gt;&#xA;.article-content, .max-w-prose { max-width: 900px !important; }&#xA;.project-meta { font-family: monospace; color: #4ade80; margin-top: -10px; margin-bottom: 30px; border-bottom: 1px dashed #334155; padding-bottom: 20px; font-size: 0.9em; letter-spacing: 0.5px; }&#xA;.project-body { color: #cbd5e1; line-height: 1.8; font-size: 1.05em; }&#xA;.project-image { width: 100%; border-radius: 8px; border: 1px solid #334155; margin: 30px 0; display: block; background: #0f172a; }&#xA;.project-body ul { margin-top: 15px; margin-bottom: 30px; padding-left: 20px; }&#xA;.project-body li { margin-bottom: 20px; }&#xA;.project-body strong { color: #f8fafc; }&#xA;.project-body h3 { color: #4ade80; text-transform: uppercase; font-family: monospace; font-size: 1.2em; margin-top: 40px; border-bottom: 1px solid #334155; padding-bottom: 10px; }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;project-meta&#34;&gt;DESIGN AND ANALYSIS OF ALGORITHMS | C++ &amp; PYTHON&lt;/div&gt;&#xA;&lt;div class=&#34;project-body&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;How quickly can we find the closest two points when “distance” doesn&#39;t mean what you normally think it means? :}&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Certifications</title>
+      <link>https://muhammadowaistahir06-svg.github.io/certifications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/certifications/</guid>
+      <description>&lt;style&gt;&#xA;/* Global Overrides */&#xA;.article-content, .max-w-prose { max-width: 1100px !important; width: 100% !important; margin: 0 auto !important; }&#xA;header h1 { display: none !important; } /* Hide the default Hugo title */&#xA;&#xA;/* Section Header */&#xA;.section-pre { font-family: monospace; color: #64748b; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 10px; font-size: 0.9em; }&#xA;.section-title { font-size: clamp(2.5em, 5vw, 3.5em); font-weight: 900; line-height: 1.1; margin: 0 0 20px 0; color: #f8fafc; text-transform: uppercase; letter-spacing: -1px; }&#xA;.section-desc { font-size: 1.1em; color: #94a3b8; max-width: 700px; line-height: 1.6; border-left: 3px solid #4ade80; padding-left: 20px; margin-bottom: 40px; }&#xA;&#xA;/* Grid &amp; Cards */&#xA;.cert-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }&#xA;.cert-card { background: #0f172a; border: 1px solid #334155; border-radius: 8px; padding: 25px; display: flex; flex-direction: column; transition: transform 0.2s, border-color 0.2s; }&#xA;.cert-card:hover { transform: translateY(-3px); border-color: #4ade80; }&#xA;&#xA;.cert-title { font-size: 1.15em; font-weight: 800; color: #f8fafc; margin: 0 0 10px 0; line-height: 1.3; text-transform: uppercase; }&#xA;.cert-issuer { font-size: 0.8em; color: #4ade80; text-transform: uppercase; font-family: monospace; margin: 0 0 16px 0; letter-spacing: 1px; border-bottom: 1px dashed #334155; padding-bottom: 10px; }&#xA;.cert-desc { font-size: 0.9em; color: #cbd5e1; flex-grow: 1; margin: 0 0 24px 0; line-height: 1.6; }&#xA;&#xA;.cert-btn { display: block; padding: 10px; border: 1px solid #64748b; border-radius: 4px; color: #e2e8f0; text-decoration: none !important; font-size: 0.85em; font-weight: bold; text-align: center; text-transform: uppercase; font-family: monospace; transition: 0.2s; }&#xA;.cert-btn:hover { border-color: #4ade80; color: #4ade80; background: rgba(74, 222, 128, 0.05); }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;section-pre&#34;&gt;// KNOWLEDGE BASE&lt;/div&gt;&#xA;&lt;div class=&#34;section-title&#34;&gt;Certifications&lt;/div&gt;&#xA;&lt;div class=&#34;section-desc&#34;&gt;&#xA;  &lt;strong&gt;I don&#39;t like learning something just enough to say I know it. I like going down the rabbit hole. :}&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&#xA;  These are the certifications and courses I&#39;ve completed while building my way from Computer Science toward embedded systems, robotics, electronics, and intelligent machines.&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;cert-grid&#34;&gt;&#xA;  &lt;div class=&#34;cert-card&#34;&gt;&#xA;    &lt;div class=&#34;cert-title&#34;&gt;Modern Robotics: Mechanics, Planning, &amp; Control&lt;/div&gt;&#xA;    &lt;div class=&#34;cert-issuer&#34;&gt;Northwestern University — Sep 2026&lt;/div&gt;&#xA;    &lt;div class=&#34;cert-desc&#34;&gt;Learning the mathematics and mechanics behind how robots move, plan, and interact with the world.&lt;/div&gt;&#xA;    &lt;a href=&#34;https://muhammadowaistahir06-svg.github.io/images/northwest(6courses).png&#34; class=&#34;cert-btn&#34; target=&#34;_blank&#34;&gt;[ View Document ]&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;cert-card&#34;&gt;&#xA;    &lt;div class=&#34;cert-title&#34;&gt;CCNA: Switching, Routing, &amp; Wireless Essentials&lt;/div&gt;&#xA;    &lt;div class=&#34;cert-issuer&#34;&gt;Cisco Networking Academy — Jul 2026&lt;/div&gt;&#xA;    &lt;div class=&#34;cert-desc&#34;&gt;Building a stronger understanding of how devices communicate, connect, and move data across networks.&lt;/div&gt;&#xA;    &lt;a href=&#34;https://muhammadowaistahir06-svg.github.io/images/Cisco_CCNA_Certificate-1.png&#34; class=&#34;cert-btn&#34; target=&#34;_blank&#34;&gt;[ View Document ]&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;cert-card&#34;&gt;&#xA;    &lt;div class=&#34;cert-title&#34;&gt;Sensors and Sensor Circuit Design&lt;/div&gt;&#xA;    &lt;div class=&#34;cert-issuer&#34;&gt;University of Colorado Boulder — 2026&lt;/div&gt;&#xA;    &lt;div class=&#34;cert-desc&#34;&gt;Diving deeper into the electronics behind the sensors that let machines perceive the physical world.&lt;/div&gt;&#xA;    &lt;a href=&#34;https://muhammadowaistahir06-svg.github.io/images/circuitdesigncertificate-1.png&#34; class=&#34;cert-btn&#34; target=&#34;_blank&#34;&gt;[ View Document ]&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;cert-card&#34;&gt;&#xA;    &lt;div class=&#34;cert-title&#34;&gt;Operating Systems&lt;/div&gt;&#xA;    &lt;div class=&#34;cert-issuer&#34;&gt;BITS Pilani — 2026&lt;/div&gt;&#xA;    &lt;div class=&#34;cert-desc&#34;&gt;Understanding the software layer that sits between applications and the hardware underneath them.&lt;/div&gt;&#xA;    &lt;a href=&#34;https://muhammadowaistahir06-svg.github.io/images/OS-1.png&#34; class=&#34;cert-btn&#34; target=&#34;_blank&#34;&gt;[ View Document ]&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;cert-card&#34;&gt;&#xA;    &lt;div class=&#34;cert-title&#34;&gt;Deep Learning &amp; Neural Networks&lt;/div&gt;&#xA;    &lt;div class=&#34;cert-issuer&#34;&gt;IBM — 2026&lt;/div&gt;&#xA;    &lt;div class=&#34;cert-desc&#34;&gt;Exploring how machines can learn from data and turn patterns into decisions.&lt;/div&gt;&#xA;    &lt;a href=&#34;https://muhammadowaistahir06-svg.github.io/images/DeepLcertificates-1.png&#34; class=&#34;cert-btn&#34; target=&#34;_blank&#34;&gt;[ View Document ]&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Digital Logic LED Matrix Simulation</title>
+      <link>https://muhammadowaistahir06-svg.github.io/software/dld-matrix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/software/dld-matrix/</guid>
+      <description>&lt;style&gt;&#xA;.article-content, .max-w-prose { max-width: 900px !important; }&#xA;.project-meta { font-family: monospace; color: #4ade80; margin-top: -10px; margin-bottom: 30px; border-bottom: 1px dashed #334155; padding-bottom: 20px; font-size: 0.9em; letter-spacing: 0.5px; }&#xA;.project-body { color: #cbd5e1; line-height: 1.8; font-size: 1.05em; }&#xA;.img-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 40px 0; }&#xA;.img-full { grid-column: span 2; width: 100%; border-radius: 8px; border: 1px solid #334155; background: #e2e8f0; }&#xA;.img-half { width: 100%; border-radius: 8px; border: 1px solid #334155; background: #e2e8f0; object-fit: contain; max-height: 400px; }&#xA;.project-body ul { margin-top: 15px; margin-bottom: 30px; padding-left: 20px; }&#xA;.project-body li { margin-bottom: 20px; }&#xA;.project-body strong { color: #f8fafc; }&#xA;.project-body h3 { color: #4ade80; text-transform: uppercase; font-family: monospace; font-size: 1.2em; margin-top: 40px; border-bottom: 1px solid #334155; padding-bottom: 10px; }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;project-meta&#34;&gt;DIGITAL LOGIC DESIGN | UNIVERSITY PROJECT&lt;/div&gt;&#xA;&lt;div class=&#34;project-body&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;No microcontroller. No Arduino. No firmware. Just logic gates trying to make 64 LEDs behave. :}&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Enterprise-Grade Energy Management &amp; Auditing System</title>
+      <link>https://muhammadowaistahir06-svg.github.io/software/dbms-energy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/software/dbms-energy/</guid>
+      <description>&lt;style&gt;&#xA;.article-content, .max-w-prose { max-width: 900px !important; }&#xA;.project-meta { font-family: monospace; color: #4ade80; margin-top: -10px; margin-bottom: 30px; border-bottom: 1px dashed #334155; padding-bottom: 20px; font-size: 0.9em; letter-spacing: 0.5px; }&#xA;.project-body { color: #cbd5e1; line-height: 1.8; font-size: 1.05em; }&#xA;.img-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 40px 0; }&#xA;.img-full { grid-column: span 2; width: 100%; border-radius: 8px; border: 1px solid #334155; background: #0f172a; margin: 30px 0; }&#xA;.img-half { width: 100%; border-radius: 8px; border: 1px solid #334155; background: #0f172a; }&#xA;.project-body ul { margin-top: 15px; margin-bottom: 30px; padding-left: 20px; }&#xA;.project-body li { margin-bottom: 20px; }&#xA;.project-body strong { color: #f8fafc; }&#xA;.project-body h3 { color: #4ade80; text-transform: uppercase; font-family: monospace; font-size: 1.2em; margin-top: 40px; border-bottom: 1px solid #334155; padding-bottom: 10px; }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;project-meta&#34;&gt;DATABASE MANAGEMENT SYSTEMS | C# / .NET &amp; SQL SERVER&lt;/div&gt;&#xA;&lt;div class=&#34;project-body&#34;&gt;&#xA;&lt;h3&gt;This was one of those university projects that started as “just make a billing system” and somehow turned into an entire energy-management platform :}&lt;/h3&gt;&#xA;&lt;p&gt;The goal was to build a desktop application capable of tracking electricity consumption, estimating billing costs, generating detailed reports, and identifying unusually high appliance consumption.&#xA;But the interesting part wasn&#39;t the bill calculator ..&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://muhammadowaistahir06-svg.github.io/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/experience/</guid>
+      <description>&lt;style&gt;&#xA;/* Global Overrides */&#xA;.article-content, .max-w-prose { max-width: 1000px !important; width: 100% !important; margin: 0 auto !important; }&#xA;header h1 { display: none !important; } /* Hide the default Hugo title */&#xA;&#xA;/* Section Header */&#xA;.section-pre { font-family: monospace; color: #64748b; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 10px; font-size: 0.9em; }&#xA;.section-title { font-size: clamp(2.5em, 5vw, 3.5em); font-weight: 900; line-height: 1.1; margin: 0 0 30px 0; color: #f8fafc; text-transform: uppercase; letter-spacing: -1px; }&#xA;&#xA;/* Job Container */&#xA;.job-container { background: #0f172a; border: 1px solid #334155; border-left: 4px solid #4ade80; border-radius: 8px; padding: 32px; margin-top: 10px; }&#xA;.job-header { display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; border-bottom: 1px dashed #334155; padding-bottom: 20px; margin-bottom: 24px; gap: 10px; }&#xA;.job-title { font-size: 1.6em; font-weight: 800; color: #f8fafc; margin: 0; line-height: 1.2; text-transform: uppercase; }&#xA;.job-company { color: #4ade80; font-family: monospace; font-size: 1em; text-transform: uppercase; letter-spacing: 1px; display: block; margin-top: 5px; }&#xA;.job-date { background: rgba(255,255,255,0.05); padding: 6px 12px; border-radius: 4px; color: #94a3b8; font-family: monospace; font-size: 0.85em; border: 1px solid #334155; }&#xA;.job-intro { font-size: 1.05em; color: #e2e8f0; font-style: italic; margin: 0 0 30px 0; border-left: 2px solid #475569; padding-left: 15px; }&#xA;.skill-block { margin-bottom: 24px; }&#xA;.skill-title { font-weight: 800; margin: 0 0 8px 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; font-family: monospace; color: #4ade80; }&#xA;.skill-text { color: #cbd5e1; font-size: 0.95em; line-height: 1.7; margin: 0; }&#xA;.job-footer { margin-top: 30px; padding-top: 20px; border-top: 1px dashed #334155; font-weight: bold; color: #e2e8f0; }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;section-pre&#34;&gt;// CAREER TRAJECTORY&lt;/div&gt;&#xA;&lt;div class=&#34;section-title&#34;&gt;Experience&lt;/div&gt;&#xA;&lt;div class=&#34;job-container&#34;&gt;&#xA;  &lt;div class=&#34;job-header&#34;&gt;&#xA;    &lt;div&gt;&#xA;      &lt;h2 class=&#34;job-title&#34;&gt;Embedded Systems Engineer&lt;/h2&gt;&#xA;      &lt;span class=&#34;job-company&#34;&gt;@ Beecortex&lt;/span&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;job-date&#34;&gt;Present&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;p class=&#34;job-intro&#34;&gt;This is where my software stopped living on a screen and started controlling real machines. :}&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>High-Performance Drone Swarm Simulation</title>
+      <link>https://muhammadowaistahir06-svg.github.io/software/drone-swarm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/software/drone-swarm/</guid>
+      <description>&lt;style&gt;&#xA;.article-content, .max-w-prose { max-width: 900px !important; }&#xA;.project-meta { font-family: monospace; color: #4ade80; margin-top: -10px; margin-bottom: 30px; border-bottom: 1px dashed #334155; padding-bottom: 20px; font-size: 0.9em; letter-spacing: 0.5px; }&#xA;.project-body { color: #cbd5e1; line-height: 1.8; font-size: 1.05em; }&#xA;.img-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 40px 0; }&#xA;.img-full { grid-column: span 2; width: 100%; border-radius: 8px; border: 1px solid #334155; background: #0f172a; }&#xA;.img-half { width: 100%; border-radius: 8px; border: 1px solid #334155; background: #0f172a; }&#xA;.project-body ul { margin-top: 15px; margin-bottom: 30px; padding-left: 20px; }&#xA;.project-body li { margin-bottom: 20px; }&#xA;.project-body strong { color: #f8fafc; }&#xA;.project-body h3 { color: #4ade80; text-transform: uppercase; font-family: monospace; font-size: 1.2em; margin-top: 40px; border-bottom: 1px solid #334155; padding-bottom: 10px; }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;project-meta&#34;&gt;DECOUPLED ARCHITECTURE | MPI + CUDA&lt;/div&gt;&#xA;&lt;div class=&#34;project-body&#34;&gt;&#xA;&lt;h2&gt;At some point, simulating one drone wasn&#39;t enough. So I tried simulating thousands. :}&lt;/h2&gt;&#xA;&lt;p&gt;&#xA;This project started with a simple question: &lt;h4&gt;how do you make a computer keep up when hundreds or thousands of objects all need to move, calculate, and react at the same time?&lt;/h4&gt;A traditional sequential CPU quickly becomes the bottleneck when every drone needs continuous position updates, 3D kinematics, and collision checks. So instead of simply optimizing the code, I changed the way the computation itself was organized.&#xA;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Network Stealth &amp; Hooking</title>
+      <link>https://muhammadowaistahir06-svg.github.io/software/network-stealth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/software/network-stealth/</guid>
+      <description>&lt;style&gt;&#xA;.article-content, .max-w-prose { max-width: 900px !important; }&#xA;.project-meta { font-family: monospace; color: #4ade80; margin-top: -10px; margin-bottom: 30px; border-bottom: 1px solid #334155; padding-bottom: 20px; font-size: 0.9em; letter-spacing: 0.5px; }&#xA;.project-body { color: #cbd5e1; line-height: 1.8; font-size: 1.05em; }&#xA;.project-image { width: 100%; max-width: 350px; border-radius: 8px; border: 1px solid #334155; margin: 40px 0; display: block; background: #0f172a; }&#xA;.project-body ul { margin-top: 15px; margin-bottom: 30px; padding-left: 20px; }&#xA;.project-body li { margin-bottom: 15px; }&#xA;.project-body strong { color: #f8fafc; }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;project-meta&#34;&gt;OPERATING SYSTEMS | UNIVERSITY GROUP PROJECT (3 MEMBERS)&lt;/div&gt;&#xA;&lt;div class=&#34;project-body&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;This was one of those projects where we stopped treating the operating system like a black box and started asking: “What happens if we look underneath?” :}&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>NLP Topic Modeling &amp; Document Classification Pipeline</title>
+      <link>https://muhammadowaistahir06-svg.github.io/software/nlp-pipeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadowaistahir06-svg.github.io/software/nlp-pipeline/</guid>
+      <description>&lt;style&gt;&#xA;.article-content, .max-w-prose { max-width: 900px !important; }&#xA;.project-meta { font-family: monospace; color: #4ade80; margin-top: -10px; margin-bottom: 30px; border-bottom: 1px dashed #334155; padding-bottom: 20px; font-size: 0.9em; letter-spacing: 0.5px; }&#xA;.project-body { color: #cbd5e1; line-height: 1.8; font-size: 1.05em; }&#xA;.project-body ul { margin-top: 15px; margin-bottom: 30px; padding-left: 20px; }&#xA;.project-body li { margin-bottom: 20px; }&#xA;.project-body strong { color: #f8fafc; }&#xA;.project-body h3 { color: #4ade80; text-transform: uppercase; font-family: monospace; font-size: 1.2em; margin-top: 40px; border-bottom: 1px solid #334155; padding-bottom: 10px; }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;project-meta&#34;&gt;DATA SCIENCE | NATURAL LANGUAGE PROCESSING&lt;/div&gt;&#xA;&lt;h3&gt;What if you gave a computer thousands of documents and simply asked: “Figure out what everyone is talking about.”? :}&lt;/h3&gt;&#xA;&lt;div class=&#34;project-body&#34;&gt;&#xA;&lt;p&gt;That was essentially the idea behind this project.&#xA;&lt;p&gt;Using the &lt;strong&gt;20 Newsgroups dataset&lt;/strong&gt;, I built an NLP pipeline capable of discovering hidden topics in text, grouping documents by semantic similarity, and then predicting their original categories.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

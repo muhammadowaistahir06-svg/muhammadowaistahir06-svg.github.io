@@ -51,18 +51,16 @@
   <meta property="og:url" content="https://muhammadowaistahir06-svg.github.io/">
 	<meta property="og:site_name" content="Muhammad Owais Tahir | Engineering Archive">
 	<meta property="og:title" content="Muhammad Owais Tahir | Engineering Archive">
-	<meta property="og:description" content="Muhammad Owais Tahir [ NEA ] | Engineering Archive I Build Machines
-With Code. Embedded systems engineer. Computer Science background.
-Slightly obsessed with making software interact with the physical world. :} [ Explore Builds ] [ The Origin ] Engineering Status● ONLINE FIELDEmbedded Systems FOCUSHardware × Software BUILDINGIndustrial Inspection EXPLORINGRobotics / Automata ROLE Embedded Software &amp; Embedded System Engineer @ Beecortex From Code To Machine// ARCHITECTURE 01 Software Algorithms Python / C&#43;&#43; FastAPI / React 02 Firmware STM32 / ESP32 Bare-Metal C UART / SPI / I2C 03 Hardware Custom PCBs Sensors / LiDAR Motors / Kinematics System Metrics// TELEMETRY 729LEDs (Max Matrix) 3&#43;Hardware Platforms 5Core Domains ∞Things to Build Identity[ NEA ] Software → Electronics → Machines I started with Computer Science. I’m using it to build things that were never meant to stay on a screen.">
+	<meta property="og:description" content="Muhammad Owais Tahir [ NEA ] | Engineering Archive owais@nea:~$ ./init_archive.sh Software Was
+Only The Beginning. I started with Computer Science.">
 	<meta property="og:locale" content="en">
 	<meta property="og:type" content="website">
 
   
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:title" content="Muhammad Owais Tahir | Engineering Archive">
-	<meta name="twitter:description" content="Muhammad Owais Tahir [ NEA ] | Engineering Archive I Build Machines
-With Code. Embedded systems engineer. Computer Science background.
-Slightly obsessed with making software interact with the physical world. :} [ Explore Builds ] [ The Origin ] Engineering Status● ONLINE FIELDEmbedded Systems FOCUSHardware × Software BUILDINGIndustrial Inspection EXPLORINGRobotics / Automata ROLE Embedded Software &amp; Embedded System Engineer @ Beecortex From Code To Machine// ARCHITECTURE 01 Software Algorithms Python / C&#43;&#43; FastAPI / React 02 Firmware STM32 / ESP32 Bare-Metal C UART / SPI / I2C 03 Hardware Custom PCBs Sensors / LiDAR Motors / Kinematics System Metrics// TELEMETRY 729LEDs (Max Matrix) 3&#43;Hardware Platforms 5Core Domains ∞Things to Build Identity[ NEA ] Software → Electronics → Machines I started with Computer Science. I’m using it to build things that were never meant to stay on a screen.">
+	<meta name="twitter:description" content="Muhammad Owais Tahir [ NEA ] | Engineering Archive owais@nea:~$ ./init_archive.sh Software Was
+Only The Beginning. I started with Computer Science.">
 
   
   
@@ -743,17 +741,30 @@ Slightly obsessed with making software interact with the physical world. :} [ Ex
           <style>
 /* Global Overrides */
 .article-content, .max-w-prose { max-width: 1100px !important; width: 100% !important; margin: 0 auto !important; }
-header h1 { display: none !important; } /* Hide the default Hugo title on the homepage */
+header h1 { display: none !important; }
+
+/* Terminal Window Container */
+.terminal-window { background: #0f172a; border: 1px solid #334155; border-radius: 10px; box-shadow: 0 15px 35px rgba(0,0,0,0.4); overflow: hidden; margin-top: -10px; margin-bottom: 40px; }
+.terminal-header { background: #1e293b; padding: 12px 16px; display: flex; align-items: center; border-bottom: 1px solid #334155; }
+.term-buttons { display: flex; gap: 8px; }
+.term-btn { width: 12px; height: 12px; border-radius: 50%; }
+.term-red { background: #ef4444; }
+.term-yel { background: #f59e0b; }
+.term-grn { background: #10b981; }
+.term-title { flex-grow: 1; text-align: center; font-family: monospace; color: #64748b; font-size: 0.85em; margin-right: 44px; text-transform: uppercase; letter-spacing: 2px; }
+.terminal-body { padding: 30px; }
 
 /* Typography & Core */
-.home-wrapper { display: flex; flex-direction: column; gap: 30px; padding-bottom: 60px; margin-top: -20px; }
 .accent { color: #4ade80 !important; }
+.sys-cmd { font-family: monospace; font-size: 1.1em; color: #e2e8f0; margin-bottom: 30px; padding-bottom: 15px; border-bottom: 1px dashed #334155; }
+.sys-prompt { color: #4ade80; font-weight: bold; margin-right: 10px; }
+.cursor-blink { animation: blink 1s step-end infinite; display: inline-block; width: 10px; height: 18px; background-color: #4ade80; vertical-align: text-bottom; margin-left: 5px; }
+@keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
 
 /* Hero Section */
-.hero { margin-bottom: 20px; border-bottom: 1px dashed #334155; padding-bottom: 40px; }
-.hero-pre { font-family: monospace; color: #64748b; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 25px; font-size: 0.9em; }
-.hero-title { font-size: clamp(3em, 6vw, 4.5em); font-weight: 900; line-height: 1.1; margin: 0 0 20px 0; color: #f8fafc; text-transform: uppercase; letter-spacing: -1px; }
-.hero-subtitle { font-size: 1.15em; color: #94a3b8; max-width: 650px; line-height: 1.7; border-left: 3px solid #4ade80; padding-left: 20px; margin-bottom: 35px; }
+.hero { margin-bottom: 30px; }
+.hero-title { font-size: clamp(2.5em, 5vw, 4em); font-weight: 900; line-height: 1.1; margin: 0 0 20px 0; color: #f8fafc; text-transform: uppercase; letter-spacing: -1px; }
+.hero-subtitle { font-size: 1.15em; color: #cbd5e1; max-width: 750px; line-height: 1.7; border-left: 3px solid #4ade80; padding-left: 20px; margin-bottom: 35px; font-family: monospace; }
 .hero-buttons { display: flex; gap: 15px; flex-wrap: wrap; }
 .btn-primary { display: inline-block; padding: 12px 24px; background: rgba(74, 222, 128, 0.1); border: 1px solid #4ade80; color: #4ade80; text-transform: uppercase; font-family: monospace; font-weight: bold; text-decoration: none !important; transition: 0.2s; }
 .btn-primary:hover { background: #4ade80; color: #0f172a; }
@@ -761,74 +772,113 @@ header h1 { display: none !important; } /* Hide the default Hugo title on the ho
 .btn-secondary:hover { border-color: #f8fafc; background: rgba(255,255,255,0.05); }
 
 /* Dashboard Panels */
-.dash-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; }
-.panel { background: #0f172a; border: 1px solid #334155; border-radius: 8px; padding: 25px; display: flex; flex-direction: column; }
-.panel-head { font-family: monospace; color: #64748b; font-size: 0.85em; text-transform: uppercase; letter-spacing: 1px; border-bottom: 1px dashed #334155; padding-bottom: 15px; margin-bottom: 20px; display: flex; justify-content: space-between; }
+.dash-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; margin-bottom: 20px; }
+.panel { background: rgba(255,255,255,0.02); border: 1px solid #334155; border-radius: 6px; padding: 25px; display: flex; flex-direction: column; }
+.panel-head { font-family: monospace; color: #64748b; font-size: 0.85em; text-transform: uppercase; letter-spacing: 1px; border-bottom: 1px dashed #334155; padding-bottom: 15px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; }
 .panel-body { color: #cbd5e1; font-family: monospace; font-size: 0.95em; line-height: 1.8; flex-grow: 1; }
 
 /* Panel Specifics */
-.kv-row { display: flex; margin-bottom: 8px; }
-.kv-key { width: 100px; color: #64748b; }
-.kv-val { color: #e2e8f0; font-weight: bold; }
+.term-list-item { margin-bottom: 15px; }
+.term-list-title { color: #4ade80; font-weight: bold; font-size: 1.05em; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 2px; }
+.term-list-title::before { content: ">_ "; color: #64748b; }
 
-.pipeline-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; text-align: center; }
-.pipe-col h4 { margin: 0 0 15px 0; color: #f8fafc; font-size: 1.1em; text-transform: uppercase; border-bottom: 1px solid #334155; padding-bottom: 10px; }
-.pipe-item { color: #94a3b8; font-size: 0.95em; margin-bottom: 5px; }
+.pipeline-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 20px; }
+.pipe-col { background: #0f172a; padding: 15px; border-radius: 4px; border: 1px solid #1e293b; }
+.pipe-item { color: #e2e8f0; font-size: 0.95em; margin-top: 5px; }
 
 .metrics-grid { display: flex; justify-content: space-between; text-align: center; padding-top: 10px; }
 .metric { display: flex; flex-direction: column; }
 .m-num { font-size: 2.2em; font-weight: 800; color: #4ade80; font-family: sans-serif; line-height: 1; margin-bottom: 8px; }
 .m-lbl { font-size: 0.75em; color: #64748b; text-transform: uppercase; letter-spacing: 1px; }
+
+/* Paradigm Specifics */
+.paradigm-grid { display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-between; align-items: center; }
+.paradigm-node { flex: 1; min-width: 180px; background: #0f172a; padding: 20px; border-radius: 4px; border: 1px solid #334155; text-align: center; transition: 0.2s; position: relative; }
+.paradigm-node:hover { border-color: #4ade80; }
+.paradigm-arrow { color: #64748b; font-size: 1.5em; font-weight: bold; }
+.paradigm-title { font-size: 1.4em; font-weight: 900; color: #f8fafc; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 8px; }
+.paradigm-desc { color: #4ade80; font-family: monospace; font-size: 0.9em; }
+
+@media (max-width: 768px) {
+  .paradigm-grid { flex-direction: column; }
+  .paradigm-arrow { transform: rotate(90deg); margin: 10px 0; }
+}
 </style>
-<div class="home-wrapper">
+<div class="terminal-window">
+<div class="terminal-header">
+<div class="term-buttons">
+<div class="term-btn term-red"></div>
+<div class="term-btn term-yel"></div>
+<div class="term-btn term-grn"></div>
+</div>
+<div class="term-title">Muhammad Owais Tahir [ NEA ] | Engineering Archive</div>
+</div>
+<div class="terminal-body">
+<div class="sys-cmd"><span class="sys-prompt">owais@nea:~$</span> ./init_archive.sh</div>
 <!-- HERO SECTION -->
 <div class="hero">
-<div class="hero-pre">Muhammad Owais Tahir <span class="accent">[ NEA ]</span> | Engineering Archive</div>
-<h2 class="hero-title">I Build Machines<br>With Code.</h2>
+<h2 class="hero-title">Software Was<br>Only The Beginning.</h2>
 <div class="hero-subtitle">
-Embedded systems engineer. Computer Science background.<br>
-Slightly obsessed with making software interact with the physical world. :}
+<p style="margin-bottom: 10px;">I started with Computer Science.</p>
+<p>Then I got curious about what happens when code has to leave the screen and deal with something that can actually move, break, measure, sense, and occasionally refuse to cooperate. :}</p>
 </div>
 <div class="hero-buttons">
-<a href="/robotics/" class="btn-primary">[ Explore Builds ]</a>
-<a href="/origin/" class="btn-secondary">[ The Origin ]</a>
+<a href="/robotics/" class="btn-primary">[ [ Explore My Builds ] ]</a>
+<a href="/origin/" class="btn-secondary">[ [ Read The Origin ] ]</a>
 </div>
 </div>
 <!-- ROW 1: Status & Pipeline -->
 <div class="dash-grid">
 <!-- Status Panel -->
 <div class="panel">
-<div class="panel-head"><span>Engineering Status</span><span class="accent">● ONLINE</span></div>
+<div class="panel-head"><span>What I'm Building</span><span class="accent" style="background: rgba(74,222,128,0.1); padding: 2px 8px; border-radius: 4px;">CURRENTLY OBSESSED WITH</span></div>
 <div class="panel-body">
-<div class="kv-row"><div class="kv-key">FIELD</div><div class="kv-val">Embedded Systems</div></div>
-<div class="kv-row"><div class="kv-key">FOCUS</div><div class="kv-val">Hardware × Software</div></div>
-<div class="kv-row"><div class="kv-key">BUILDING</div><div class="kv-val">Industrial Inspection</div></div>
-<div class="kv-row"><div class="kv-key">EXPLORING</div><div class="kv-val">Robotics / Automata</div></div>
-<div class="kv-row" style="margin-top: 15px; border-top: 1px dashed #334155; padding-top: 15px;">
-<div class="kv-key accent">ROLE  </div><div class="kv-val">Embedded Software & Embedded System  Engineer @ Beecortex</div></div>
+<div style="font-weight: 800; color: #f8fafc; text-transform: uppercase; font-size: 1.1em; margin-bottom: 15px; border-bottom: 1px dashed #334155; padding-bottom: 10px;">Software that has to deal with the real world.</div>
+<div style="color: #94a3b8; line-height: 1.6; margin-bottom: 25px;">I build systems where software and hardware have no choice but to work together — reading sensors, controlling machines, processing data, and turning ideas into something physical.</div>
+<div class="term-list-item">
+  <div class="term-list-title">ROBOTS</div>
+  <div style="color: #cbd5e1;">Because making something move is much more interesting when you have to figure out how to make it move.</div>
+</div>
+<div class="term-list-item">
+  <div class="term-list-title">SYSTEMS</div>
+  <div style="color: #cbd5e1;">Because sensors are useless if you don't know what to do with what they tell you.</div>
+</div>
+<div class="term-list-item">
+  <div class="term-list-title">MACHINES</div>
+  <div style="color: #cbd5e1;">Because sometimes the best way to understand a problem is to build something that tries to solve it.</div>
+</div>
 </div>
 </div>
 <!-- Pipeline Panel -->
 <div class="panel" style="grid-column: span 2 / auto;">
-<div class="panel-head"><span>From Code To Machine</span><span>// ARCHITECTURE</span></div>
-<div class="panel-body pipeline-grid">
-<div class="pipe-col">
-<h4>01 Software</h4>
-<div class="pipe-item">Algorithms</div>
-<div class="pipe-item">Python / C++</div>
-<div class="pipe-item">FastAPI / React</div>
+<div class="panel-head"><span>What I Work With</span><span style="color:#64748b;">// THE TOOLBOX</span></div>
+<div class="panel-body">
+<div style="font-size: 1.1em; color: #f8fafc; margin-bottom: 20px; font-style: italic; border-left: 2px solid #4ade80; padding-left: 15px;">
+I don't really like staying inside one layer.
 </div>
-<div class="pipe-col">
-<h4 class="accent">02 Firmware</h4>
-<div class="pipe-item">STM32 / ESP32</div>
-<div class="pipe-item">Bare-Metal C</div>
-<div class="pipe-item">UART / SPI / I2C</div>
+<div class="pipeline-grid">
+  <div class="pipe-col">
+    <div class="accent" style="font-weight: bold; text-transform: uppercase;">CODE</div>
+    <div class="pipe-item">Python / MicroPython / Embedded C / C++</div>
+  </div>
+  <div class="pipe-col">
+    <div class="accent" style="font-weight: bold; text-transform: uppercase;">COMPUTE</div>
+    <div class="pipe-item">Jetson / Raspberry Pi / STM32 / ESP32</div>
+  </div>
+  <div class="pipe-col">
+    <div class="accent" style="font-weight: bold; text-transform: uppercase;">SENSE</div>
+    <div class="pipe-item">PCBs / Sensors / LiDAR / Data Acquisition</div>
+  </div>
+  <div class="pipe-col">
+    <div class="accent" style="font-weight: bold; text-transform: uppercase;">MOVE</div>
+    <div class="pipe-item">Motors / Control / Kinematics</div>
+  </div>
 </div>
-<div class="pipe-col">
-<h4>03 Hardware</h4>
-<div class="pipe-item">Custom PCBs</div>
-<div class="pipe-item">Sensors / LiDAR</div>
-<div class="pipe-item">Motors / Kinematics</div>
+<div style="color: #f8fafc; font-family: monospace; font-size: 1.05em; line-height: 1.8; border-top: 1px dashed #334155; padding-top: 15px;">
+<span style="color:#64748b;">></span> Things that can see.<br>
+<span style="color:#64748b;">></span> Things that can measure.<br>
+<span style="color:#64748b;">></span> Things that can move.<br><br>
+<strong class="accent">And occasionally... Things that do all three. :}</strong>
 </div>
 </div>
 </div>
@@ -837,21 +887,57 @@ Slightly obsessed with making software interact with the physical world. :}
 <div class="dash-grid">
 <!-- Metrics Panel -->
 <div class="panel" style="grid-column: span 2 / auto;">
-<div class="panel-head"><span>System Metrics</span><span>// TELEMETRY</span></div>
+<div class="panel-head"><span>The Numbers</span><span style="color:#64748b;">// CURRENTLY IN THE LAB</span></div>
 <div class="panel-body metrics-grid">
-<div class="metric"><span class="m-num">729</span><span class="m-lbl">LEDs (Max Matrix)</span></div>
-<div class="metric"><span class="m-num">3+</span><span class="m-lbl">Hardware Platforms</span></div>
-<div class="metric"><span class="m-num">5</span><span class="m-lbl">Core Domains</span></div>
-<div class="metric"><span class="m-num">∞</span><span class="m-lbl">Things to Build</span></div>
+<div class="metric"><span class="m-num">729</span><span class="m-lbl">LEDs in a single matrix</span></div>
+<div class="metric"><span class="m-num">3+</span><span class="m-lbl">Hardware platforms</span></div>
+<div class="metric"><span class="m-num">5</span><span class="m-lbl">Engineering domains</span></div>
+<div class="metric"><span class="m-num">∞</span><span class="m-lbl">Things I still want to build</span></div>
 </div>
 </div>
 <!-- Identity Panel -->
 <div class="panel">
-<div class="panel-head"><span>Identity</span><span>[ NEA ]</span></div>
-<div class="panel-body" style="text-align: center; padding-top: 15px;">
-<div style="font-size: 1.25em; color: #f8fafc; margin-bottom: 12px; font-weight: bold;">Software → Electronics → Machines</div>
-<div style="color: #64748b; line-height: 1.6;">I started with Computer Science. I’m using it to build things that were never meant to stay on a screen.</div>
+<div class="panel-head"><span>Identity</span><span class="accent">[ NEA ]</span></div>
+<div class="panel-body" style="padding-top: 5px;">
+<div style="font-size: 1.15em; color: #f8fafc; margin-bottom: 12px; font-weight: bold; text-align: center; border-bottom: 1px dashed #334155; padding-bottom: 10px;">Software → Electronics → Machines</div>
+<div style="color: #94a3b8; line-height: 1.6;">
+I started with Computer Science.<br>
+I could have stayed there.<br>
+Instead, I kept asking what was underneath.<br><br>
+Now I'm using software to build things that were never meant to stay on a screen.
 </div>
+</div>
+</div>
+</div>
+<!-- ROW 3: The Robotics Paradigm -->
+<div class="dash-grid">
+<div class="panel" style="grid-column: 1 / -1;">
+<div class="panel-head"><span>The Loop</span><span style="color:#64748b;">// HOW I THINK ABOUT MACHINES</span></div>
+<div class="panel-body paradigm-grid">
+  <div class="paradigm-node">
+    <div class="paradigm-title">SENSE</div>
+    <div class="paradigm-desc">Sensors / LiDAR / Data Acquisition</div>
+  </div>
+  <div class="paradigm-arrow">→</div>
+  <div class="paradigm-node">
+    <div class="paradigm-title">THINK</div>
+    <div class="paradigm-desc">Embedded Software / Algorithms / AI</div>
+  </div>
+  <div class="paradigm-arrow">→</div>
+  <div class="paradigm-node">
+    <div class="paradigm-title">ACT</div>
+    <div class="paradigm-desc">Motors / Control / Kinematics</div>
+  </div>
+  <div class="paradigm-arrow">→</div>
+  <div class="paradigm-node" style="border-color: #4ade80;">
+    <div class="paradigm-title">BUILD</div>
+    <div class="paradigm-desc" style="color: #f8fafc;">Something that actually does something. :}</div>
+  </div>
+</div>
+</div>
+</div>
+<div style="font-family: monospace; color: #4ade80; margin-top: 10px; padding-left: 5px;">
+owais@nea:~$ system standby... <span class="cursor-blink"></span>
 </div>
 </div>
 </div>
